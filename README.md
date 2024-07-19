@@ -1,7 +1,7 @@
-<h1 align="center">Welcome To My Git-Hub..</h1>
+<h1 align="center">Hello, This is Mina Naguib</h1>
 
 ###
-
+<p align = "center" >Passionate web developer seeks making and developing websites!</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/minanagib22/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
