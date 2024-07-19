@@ -1,17 +1,29 @@
-<h1 align="center">Welcome to my space..</h1>
+<h1 align="center">Welcome To My Git-Hub..</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/minanagib22/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="http://Wa.me/+201279378853" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/minanagib222" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=minanagib112.minanagib112&left_color=blueviolet&right_color=aquamarine"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="0" src=""  />
 </div>
 
 ###
@@ -20,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as full stack developer<br>- 📚 I'm currently learning Angular FrameWork<br>- ⚡ In my free time I play football</p>
+<p align="left">- 🔭 I’m working as Full stack developer [React and Laravel]<br>- 📚 I'm currently learning Full stack development [Angular and .NET]</p>
 
 ###
 
@@ -59,5 +71,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=minanagib112&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
