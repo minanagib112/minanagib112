@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
